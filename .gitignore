@@ -11,8 +11,4 @@ pom.xml.asc
 .lein-plugins/
 .lein-failures
 .nrepl-port
-<<<<<<< HEAD
 .cpcache/
-=======
-.cpcache/
->>>>>>> c6544d0b6b9a7a2fc2982d39f2094f102a9c7fb1
